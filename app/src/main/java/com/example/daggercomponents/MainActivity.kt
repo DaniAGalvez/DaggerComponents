@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.goToProfileModule.setOnClickListener {
-          startActivity(Intent(this, Class.forName("com.example.profile.ResourceActivity")))
+          startActivity(Intent("profile.activity"))
         }
     }
 }
