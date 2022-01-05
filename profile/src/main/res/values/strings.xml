@@ -1,0 +1,4 @@
+<resources>
+
+    <string name="provided_string">Hola soy un string recuperado mediante el IResourceProvider del componente Resources</string>
+</resources>

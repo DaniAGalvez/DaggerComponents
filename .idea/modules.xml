@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dagger_Components.iml" filepath="$PROJECT_DIR$/.idea/modules/Dagger_Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dagger_Components.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dagger_Components.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile/Dagger_Components.profile.iml" filepath="$PROJECT_DIR$/.idea/modules/profile/Dagger_Components.profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resources_impl/Dagger_Components.resources.iml" filepath="$PROJECT_DIR$/.idea/modules/resources_impl/Dagger_Components.resources.iml" />
+    </modules>
+  </component>
+</project>
